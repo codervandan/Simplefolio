@@ -22,7 +22,7 @@
   "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
-    "parcel": "^2.7.0",
+    "parcel": "^2.16.0",
     "prettier": "^2.7.1"
   },
   "dependencies": {
